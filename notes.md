@@ -36,6 +36,15 @@ A list can be defined in a dot format or by number order:
 - Another item
 - And then some!
 
+### What about tables?
+
+You can do that too! See the below syntax:
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ### What about images and code?
 
 It is possible to inject both code AND images if you need too. Generally though, you will be fine with submitting python files (.py) and a markdown file (.md) for the text based questions.
